@@ -11,7 +11,7 @@
 - 🔭 در حال حاضر روی ارتقای مهارت‌هایم در زمینه **طراحی سیستم (System Design)** و **سیستم‌های توزیع‌شده** کار می‌کنم.
 - 🌱 در حال یادگیری عمیق **معماری رویدادمحور (Event-Driven)، RabbitMQ و Kubernetes** هستم.
 - 💬 می‌توانید درباره **C#, ASP.NET Core, DDD, CQRS و Microservices** از من بپرسید.
-- 📫 راه‌های ارتباط با من: **parsa96m@gmail.com** یا [وب‌سایت شخصی من](https://parsakarimidev.ir)
+- 📫 راه‌های ارتباط با من: **parsa9601m@gmail.com** یا [وب‌سایت شخصی من](https://parsakarimidev.ir)
 
 ---
 
