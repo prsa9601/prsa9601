@@ -41,22 +41,8 @@
 
 ---
 
-### 🚀 پروژه‌های شاخص
-
-#### ۱. [Planify - سامانه مدیریت وظایف تیمی](https://github.com/prsa961/Planning)
-یک سیستم مدیریت وظایف در سطح سازمانی که با استفاده از **طراحی دامنه‌محور (DDD)** و **CQRS** طراحی شده است.
-*   **تکنولوژی‌ها:** ASP.NET Core, Identity Framework, gRPC, Rich Domain Model.
-*   **دستاوردها:** طراحی سیستم پویا و مقیاس‌پذیر مدیریت نقش‌ها و سطوح دسترسی (RBAC)، پیاده‌سازی مدل‌های دامنه غنی و استفاده از gRPC برای ارتباطات داخلی با پرفورمنس بالا.
-
-#### ۲. [BatchProcessor - پردازشگر دسته‌ای درخواست‌ها](https://github.com/prsa961/BatchProcessor)
-یک موتور پردازش دسته‌ای با پرفورمنس بالا برای تجمیع درخواست‌های همزمان و کاهش فشار روی دیتابیس.
-*   **تکنولوژی‌ها:** C#, ConcurrentQueue, SemaphoreSlim, NBomber.
-*   **دستاوردها:** پیاده‌سازی مجموعه‌داده‌های Thread-safe (جلوگیری از Race Condition)، سیستم Flush خودکار برای جلوگیری از گم شدن داده‌ها در زمان خاموشی، و انجام تست‌های بار (Load Testing) تحت فشار بالا.
-
----
-
 ### 📊 آمار گیت‌هاب
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prsa961&show_icons=true&theme=radical&hide_border=true&locale=fa)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prsa9601&show_icons=true&theme=radical&hide_border=true&locale=fa)
 
 </div>
